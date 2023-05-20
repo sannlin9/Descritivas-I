@@ -1,2 +1,2 @@
 # Cientista de Dados.
-Tarefas e provas de conceito do curso cientista de dados EBAC.
+Tarefas e exercicios resolvidos durante o curso cientista de dados EBAC.
